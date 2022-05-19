@@ -1,0 +1,38 @@
+body{
+  background-color: lightblue;
+  
+
+    font-family: 'Montserrat', sans-serif;
+  background-image: url(laptoppic.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1,p {
+  color: navy;
+ 
+}
+
+button{
+
+    font-size: 22px;
+    border-radius: 14px;
+} 
+
+button:hover{
+        background-color: blueviolet;
+}
+
+
+  
+
+.container {
+  position: relative;
+}
+
+ .center {
+  position: absolute;
+  text-align: center;
+  padding: 300px;
+  }
